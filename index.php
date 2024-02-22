@@ -6,6 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Creacion del header</h1>
+    <header>
+    <h1>Pagina de ejemplo</h1>
+    </header>
 </body>
 </html>
